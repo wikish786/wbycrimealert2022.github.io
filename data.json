@@ -1,0 +1,101 @@
+{
+    "data": [
+        
+        
+        {
+            "longitude": 69.345116,
+            "name": "Pakistan",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:13:11.610Z",
+            "dead": 9,
+            "id": "GAp7Wb6IMhdgbvEtMza9",
+            "infected": 1235,
+            "recovered": 23,
+            "latitude": 30.37532,
+            "pop": 197000000,
+            "sick": 1203
+        },
+        {
+            "infected": 33,
+            "recovered": 0,
+            "latitude": 33.738045,
+            "pop": 27980000,
+            "longitude": 73.084488,
+            "name": "Islamabad",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "dead": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "sick": 32
+        },
+        {
+            "infected": 33,
+            "recovered": 0,
+            "latitude": 24.860966,
+            "pop": 27980000,
+            "longitude":66.990501 ,
+            "name": "Karachi",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "dead": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "sick": 32
+        },
+        {
+            "infected": 33,
+            "recovered": 0,
+            "latitude": 31.582045,
+            "pop": 27980000,
+            "longitude": 74.329376,
+            "name": "Lahore",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "dead": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "sick": 32
+        },
+        {
+            "infected": 33,
+            "recovered": 0,
+            "latitude":34.025917 ,
+            "pop": 27980000,
+            "longitude": 71.560135,
+            "name": "Peshwar",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "dead": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "sick": 32
+        },
+        {
+            "infected": 303,
+            "recovered": 0,
+            "latitude":31.976515,
+            "pop": 27980000,
+            "longitude":	74.222015 ,
+            "name": "Gujaranwala",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "dead": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "sick": 32
+        },
+        
+
+        {
+            "infected": 333,
+            "recovered": 0,
+            "latitude": 33.626057,
+            "pop": 27980000,
+            "longitude": 73.071442,
+            "name": "Rawalpindi",
+            "country": "PK",
+            "lastUpdated": "2020-03-27T08:26:07.182Z",
+            "dead": 1,
+            "id": "GGru8cG08mANO8XDDUtZ",
+            "sick": 32
+        }
+    
+        
+    ]
+}
